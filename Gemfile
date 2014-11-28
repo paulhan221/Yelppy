@@ -39,5 +39,9 @@ gem 'spring',        group: :development
 # gem 'debugger', group: [:development, :test]
 gem 'rails_12factor', group: :production
 
-ruby "2.1.5"
+gem 'carrierwave'
+
+gem 'fog'
+
+ruby "2.1.0"
 
