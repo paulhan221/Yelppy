@@ -43,5 +43,5 @@ gem 'carrierwave'
 
 gem 'fog'
 
-ruby "2.1.0"
+ruby "2.1.5"
 
