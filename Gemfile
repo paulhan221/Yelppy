@@ -43,5 +43,7 @@ gem 'carrierwave'
 
 gem 'fog'
 
-ruby "2.1.5"
+gem 'mini_magick'
+
+ruby "2.1.0"
 
