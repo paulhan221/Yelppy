@@ -47,5 +47,7 @@ gem 'mini_magick'
 
 gem 'devise'
 
-ruby "2.1.5"
+gem 'pry-rails'
+
+ruby "2.1.0"
 
