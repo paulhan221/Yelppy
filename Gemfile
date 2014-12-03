@@ -45,5 +45,7 @@ gem 'fog'
 
 gem 'mini_magick'
 
+gem 'devise'
+
 ruby "2.1.5"
 
