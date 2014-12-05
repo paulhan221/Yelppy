@@ -40,7 +40,6 @@ gem 'spring',        group: :development
 gem 'rails_12factor', group: :production
 
 gem 'carrierwave'
-
 gem 'fog'
 
 gem 'mini_magick'
@@ -49,5 +48,5 @@ gem 'devise'
 
 gem 'pry-rails'
 
-ruby "2.1.5"
+ruby "2.1.0"
 
